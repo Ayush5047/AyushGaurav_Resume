@@ -14,3 +14,5 @@ centre enviroment has been used for centre alligning the table
 tabular enviroment is used create table
 Part 4
 Projects have been added using itemize and enumerate enviroment
+Part 5
+Training and internship has been added
