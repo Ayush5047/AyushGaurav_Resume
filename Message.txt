@@ -6,3 +6,9 @@ This part add Name,Address,Contact information (Contact,e-mail), Photograph usin
 	one parts stores the info.
 	other parts stores photo.
 -hyperref is used to make email address a hyperlink.
+Part 2
+Carrer Objective has been added
+Part 3
+Education Details have been updated in tabular manner
+centre enviroment has been used for centre alligning the table
+tabular enviroment is used create table
