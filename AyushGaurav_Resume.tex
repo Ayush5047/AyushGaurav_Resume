@@ -1,0 +1,41 @@
+\documentclass[10pt]{article}
+\usepackage[top=1cm,bottom=1cm,left=1cm,right=1cm]{geometry}
+%\usepackage{fontspec}
+\usepackage{hyperref}
+\usepackage{enumitem}
+%\setlist{nolistsep}
+\usepackage{changepage}
+\usepackage[table]{xcolor}
+\usepackage{graphicx}
+\hypersetup{
+	colorlinks=true,      
+	urlcolor=magenta,
+}
+\newcommand{\main}{\par\noindent\hspace*{0pt}\ignorespaces}
+\newcommand{\sub}{\par\noindent\hspace*{100pt}\ignorespaces}
+\begin{document}
+	\pagenumbering{gobble}
+	\large
+	{\Huge\noindent\hspace*{200pt}\textbf{Ayush Gaurav}}
+	\vspace{.5cm}
+	\hrule
+	\begin{minipage}{0.4\textwidth}
+		\begin{flushleft}
+			\textbf{Address:}17 Meena Enclave,\\
+			Near Shankar Ashram\\
+			Jwalapur, Haridwar\\
+			Uttrakhand\\
+			249407 \\
+			\textbf{Contact:} +91-9565379408\\
+			\textbf{email-id:} \href{mailto:ayush23gaurav@gmail.com}{ayush23gaurav@gmail.com}
+		\end{flushleft}
+	\end{minipage}
+	\hfill
+	\begin{minipage}{0.4\textwidth}
+		\begin{flushright}
+			\raisebox{0cm}{\href{run:./resumePic.jpg}{\includegraphics[width=3.5cm]{resumePic.jpg}}}
+		\end{flushright}
+	\end{minipage}
+	\hrule
+	\vspace{0.5cm}
+\end{document}
