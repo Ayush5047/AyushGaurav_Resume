@@ -16,3 +16,5 @@ Part 4
 Projects have been added using itemize and enumerate enviroment
 Part 5
 Training and internship has been added
+Part 6
+Area of interest has been added
