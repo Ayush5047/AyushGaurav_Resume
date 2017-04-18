@@ -12,3 +12,5 @@ Part 3
 Education Details have been updated in tabular manner
 centre enviroment has been used for centre alligning the table
 tabular enviroment is used create table
+Part 4
+Projects have been added using itemize and enumerate enviroment
