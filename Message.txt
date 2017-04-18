@@ -18,3 +18,5 @@ Part 5
 Training and internship has been added
 Part 6
 Area of interest has been added
+Part 7
+ Technical Skills have been added
