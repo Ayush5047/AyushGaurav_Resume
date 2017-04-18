@@ -28,3 +28,5 @@ part 10
 Personal Details
 part 11
 Reference
+part 12
+Declaration
